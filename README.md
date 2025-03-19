@@ -14,7 +14,7 @@ Clone este repositório ou copie o código.
 
 Execute o script com o seguinte comando:
 
-python nome_do_arquivo.py
+python Contagem-regressiva.py
 
 Explicação do Código
 
